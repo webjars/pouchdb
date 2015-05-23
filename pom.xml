@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>pouchdb</artifactId>
-    <version>3.3.1-SNAPSHOT</version>
+    <version>3.5.0-SNAPSHOT</version>
     <name>PouchDB</name>
     <description>WebJar for PouchDB</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>3.3.0</upstream.version>
+        <upstream.version>3.5.0</upstream.version>
         <upstream.url>https://github.com/pouchdb/pouchdb/releases/download/${upstream.version}</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
         <requirejs>
