@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>pouchdb</artifactId>
-    <version>3.6.0</version>
+    <version>3.6.1-SNAPSHOT</version>
     <name>PouchDB</name>
     <description>WebJar for PouchDB</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/pouchdb</url>
         <connection>scm:git:https://github.com/webjars/pouchdb.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/pouchdb.git</developerConnection>
-        <tag>pouchdb-3.6.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
